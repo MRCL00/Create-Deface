@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#mau ngrecode ya njing
+#pergi sono gua capek buat nya luu malah mau recode
 
 print "#######################"
 print "|  Wa : 081274975359  |"
